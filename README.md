@@ -1,45 +1,47 @@
-# 🚀 Raydinei Izel
+# Hello there! 👋
 
-**`Desenvolvedor FullStack e Integrante/Sócio`** <a href="https://www.devclub.com.br/">DevClub</a> 🥑
+<img src="https://img.shields.io/badge/Status-Em%20Transi%C3%A7%C3%A3o%20de%20Carreira-blue?style=for-the-badge&logo=target" alt="Status"> <img src="https://img.shields.io/badge/Foco-Full%20Stack-green?style=for-the-badge&logo=codefactor" alt="Foco">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Em%20Transi%C3%A7%C3%A3o%20de%20Carreira-blue?style=for-the-badge&logo=target" alt="Status">
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack-green?style=for-the-badge&logo=codefactor" alt="Foco"> 
-</p>
+```python
+#!/usr/bin/python
+# -*- coding: utf-4 -*-
 
-<p align="justify">
+class FullStackDeveloper: devclub🥑
 
- Olá! Estou em transição de carreira e em plena formação como desenvolvedor Full Stack e Web3. Trago comigo uma sólida bagagem anterior em análise de sistemas e resolução de problemas complexos, competências que hoje direciono para a criação de tecnologia de ponta.
- Tenho experiência prática no gerenciamento de plataformas escolares, ecossistemas de DeFi e projetos de rastreabilidade em Blockchain. Atualmente, divido meu foco em duas frentes:
+    def __init__(self):
+        self.name = "Raydinei Izel"
+        self.role = "Software Engineer"
+        self.language_spoken = ["pt_BR", "en_US"]
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/zap.svg?size=18&color=f59e0b" />
-        Desenvolvimento Tradicional:
-      </h3>
-      <p>
-        Dedico-me a construir projetos e interfaces de usuário modernas, semânticas, acessíveis e totalmente responsivas.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/file-text.svg?size=18&color=10b981" />
-        Ecossistema Web3:
-      </h3>
-      <p>
-        Desenvolvo contratos inteligentes aplicados a Finanças Descentralizadas (DeFi) e crio soluções que utilizam a transparência da Blockchain para garantir a segurança de dados ponta a ponta.        
-      </p>
-    </td>
-  </tr>
-</table>
+    def say_hi(self):
+        print("Estou em transição de carreira e em formação plena como desenvolvedor Full Stack e Web3.")
 
- </p>
+#        Trago comigo uma sólida bagagem anterior em análise de sistemas e resolução de problemas complexos,
+#        competências que hoje direcionam para a criação de tecnologia de ponta. Renho experiência prática no
+#        gerenciamento de plataformas escolares, ecossistemas de DeFi e projetos de rastreabilidade em Blockchain.
+#        Atualmente, divido meu foco em duas frentes:
+```
 
-**`🤖Linguagens e Tecnologias:`** ✅
+```javascript
+const desenvolvimento tradicional: = {
+//      Dedico-me a construir projetos e interfaces de usuário modernas, semânticas, acessíveis e totalmente responsivas.
+ desafio: "Sem tomar muito café."
+}
+```
 
-</p>
+```javascript
+const ecossistema web3: = {
+//      Desenvolvo contratos inteligentes aplicados a Finanças Descentralizadas (DeFi) e soluções crio que utilizam a
+//      transparência da Blockchain para garantir a segurança de dados ponta a ponta.
+ desafio: "Sem tomar muito RedBull."
+}
+```
+```python
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+**`Linguagens e Tecnologias:`**
 
  <p align="left">
   <!-- Tecnologias em linha única -->
@@ -48,7 +50,7 @@
 
 ---
 
-**`🎓📜 Certificações e Conquistas (Clique para validar)`** ⬇️
+**`Certificações e Conquistas (Clique para validar)`** ⬇️
 
 <p align="left">
  <!-- HTML5 -->
@@ -204,3 +206,4 @@
 </div>
 <br>
 <p align="center">Desenvolvido com ☕ e código por Raydinei Izel.</p>
+
