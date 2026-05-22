@@ -16,6 +16,9 @@ class FullStackDeveloper: devclub🥑
     def say_hi(self):
         print("Estou em transição de carreira e em formação plena como desenvolvedor Full Stack e Web3.")
 
+me = SoftwareEngineer()
+me.say_hi()
+
 #    Trago comigo uma sólida bagagem anterior em análise de sistemas e resolução de problemas complexos,
 #    competências que hoje direcionam para a criação de tecnologia de ponta. Renho experiência prática no
 #    gerenciamento de plataformas escolares, ecossistemas de DeFi e projetos de rastreabilidade em Blockchain.
@@ -37,8 +40,7 @@ const ecossistema web3: = {
 }
 ```
 ```python
-me = SoftwareEngineer()
-me.say_hi()
+
 ```
 
 **`Linguagens e Tecnologias:`**
