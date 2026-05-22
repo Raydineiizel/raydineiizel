@@ -16,23 +16,23 @@ class FullStackDeveloper: devclub🥑
     def say_hi(self):
         print("Estou em transição de carreira e em formação plena como desenvolvedor Full Stack e Web3.")
 
-#        Trago comigo uma sólida bagagem anterior em análise de sistemas e resolução de problemas complexos,
-#        competências que hoje direcionam para a criação de tecnologia de ponta. Renho experiência prática no
-#        gerenciamento de plataformas escolares, ecossistemas de DeFi e projetos de rastreabilidade em Blockchain.
-#        Atualmente, divido meu foco em duas frentes:
+#    Trago comigo uma sólida bagagem anterior em análise de sistemas e resolução de problemas complexos,
+#    competências que hoje direcionam para a criação de tecnologia de ponta. Renho experiência prática no
+#    gerenciamento de plataformas escolares, ecossistemas de DeFi e projetos de rastreabilidade em Blockchain.
+#    Atualmente, divido meu foco em duas frentes:
 ```
 
 ```javascript
 const desenvolvimento tradicional: = {
-//      Dedico-me a construir projetos e interfaces de usuário modernas, semânticas, acessíveis e totalmente responsivas.
+//    Dedico-me a construir projetos e interfaces de usuário modernas, semânticas, acessíveis e totalmente responsivas.
  desafio: "Sem tomar muito café."
 }
 ```
 
 ```javascript
 const ecossistema web3: = {
-//      Desenvolvo contratos inteligentes aplicados a Finanças Descentralizadas (DeFi) e soluções crio que utilizam a
-//      transparência da Blockchain para garantir a segurança de dados ponta a ponta.
+//    Desenvolvo contratos inteligentes aplicados a Finanças Descentralizadas (DeFi) e soluções crio que utilizam a
+//    transparência da Blockchain para garantir a segurança de dados ponta a ponta.
  desafio: "Sem tomar muito RedBull."
 }
 ```
@@ -190,18 +190,6 @@ me.say_hi()
 </table>
 
 ...* Atalizar referencia-->
-
-## <img width="20" align="center" src="https://icongr.am/feather/bar-chart.svg?size=20&color=fb7185" /> GitHub Analytics
-
-<div align="center">
-
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raydineiizel&theme=dark" />
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raydineiizel&theme=dark" /> 
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raydineiizel&theme=dark" />
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raydineiizel&theme=dark&utcOffset=-4" />
-<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raydineiizel&theme=dark" />
-
-
 
 </div>
 <br>
