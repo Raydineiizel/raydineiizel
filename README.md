@@ -39,9 +39,6 @@ const ecossistema web3: = {
  desafio: "Sem tomar muito RedBull."
 }
 ```
-```python
-
-```
 
 **`Linguagens e Tecnologias:`**
 
