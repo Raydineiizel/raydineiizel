@@ -90,15 +90,7 @@ const ecossistema web3: = {
 <!-- GitHub -->
     <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Certificado GitHub"></a>
 
-    <a href="https://formacoes.devclub.com.br/verify/504722a5d5c8f826c13bed9ecbfce219b56f2863" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Certificado-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Certificado HTML5"></a>
-
 <a href="https://formacoes.devclub.com.br/verify/7a6e0483f540920ebb5a8f1f102111bbfc4b0c13" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Certificado-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Certificado CSS3"></a>
-
-<a href="LINK_JS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Certificado JavaScript"></a>
-
-<a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Certificado-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Certificado Git"></a>
-
-<a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Certificado-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Certificado GitHub"></a>
     
 <!-- TypeScript --> <!-- *Atualizar
     <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
