@@ -85,6 +85,10 @@ const ecossistema web3: = {
     <a href="https://formacoes.devclub.com.br/verify/7a6e0483f540920ebb5a8f1f102111bbfc4b0c13" target="_blank"><img src="https://img.shields.io/badge/Certificado-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Certificado CSS3"></a>
 <!-- JavaScript -->
     <a href="LINK_JS" target="_blank"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Certificado JavaScript"></a>
+    <!-- Git -->
+    <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Certificado Git"></a>
+<!-- GitHub -->
+    <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Certificado GitHub"></a>
     
 <!-- TypeScript --> <!-- *Atualizar
     <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
