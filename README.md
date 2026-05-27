@@ -1,6 +1,7 @@
 # Hello there! 👋
 
-<img src="https://img.shields.io/badge/Status-Em%20Transi%C3%A7%C3%A3o%20de%20Carreira-blue?style=for-the-badge&logo=target" alt="Status"> <img src="https://img.shields.io/badge/Foco-Full%20Stack-green?style=for-the-badge&logo=codefactor" alt="Foco">
+<!-- Status -->
+<img src="https://img.shields.io/badge/Status-Em%20Transi%C3%A7%C3%A3o%20de%20Carreira-blue?style=for-the-badge&logo=target" alt="Status"><img src="https://img.shields.io/badge/Foco-Full%20Stack-green?style=for-the-badge&logo=codefactor" alt="Foco">
 
 ```python
 #!/usr/bin/python
@@ -43,8 +44,34 @@ const ecossistema web3: = {
 **`Linguagens e Tecnologias:`**
 
  <p align="left">
-  <!-- Tecnologias em linha única -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+<!-- Tecnologias em linha única -->
+<!-- HTML5 -->
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<!-- CSS3 -->
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<!-- JAVASCRIPT -->
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<!-- TYPESCRIPT -->
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<!-- REACT -->
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<!-- NODE.JS -->
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<!-- PHP -->
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<!-- PYTHON -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<!-- JAVA -->
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<!-- GIT -->
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<!-- GITHUB -->
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<!-- FIGMA -->
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+<!-- VSCODE -->
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+     
  </p>
 
 ---
@@ -52,24 +79,26 @@ const ecossistema web3: = {
 **`Certificações e Conquistas (Clique para validar)`** ⬇️
 
 <p align="left">
- <!-- HTML5 -->
-  <a href="LINK_HTML" target="_blank"><img src="https://img.shields.io/badge/Certificado-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Certificado HTML5"></a>
- <!-- CSS3 -->
- <a href="LINK_CSS" target="_blank"><img src="https://img.shields.io/badge/Certificado-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Certificado CSS3"></a>
- <!-- JavaScript -->
- <a href="LINK_JS" target="_blank"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Certificado JavaScript"></a>
- <!-- TypeScript -->
- <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
- <!-- React -->
- <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a>
- <!-- Node.js -->
- <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
- <!-- PHP -->
- <a href="LINK_PHP" target="_blank"><img src="https://img.shields.io/badge/Certificado-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Certificado PHP"></a>
- <!-- Python -->
- <a href="LINK_PYTHON" target="_blank"><img src="https://img.shields.io/badge/Certificado-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Certificado Python"></a>
- <!-- Java -->
- <a href="LINK_JAVA" target="_blank"><img src="https://img.shields.io/badge/Certificado-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Certificado Java"></a>
+<!-- HTML5 -->
+    <a href="https://formacoes.devclub.com.br/verify/504722a5d5c8f826c13bed9ecbfce219b56f2863" target="_blank"><img src="https://img.shields.io/badge/Certificado-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Certificado HTML5"></a>
+<!-- CSS3 -->
+    <a href="LINK_CSS" target="_blank"><img src="https://img.shields.io/badge/Certificado-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Certificado CSS3"></a>
+<!-- JavaScript -->
+    <a href="LINK_JS" target="_blank"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Certificado JavaScript"></a>
+    
+<!-- TypeScript --> <!-- *Atualizar
+    <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
+    <!-- React --> <!--
+    <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a>
+<!-- Node.js --> <!--
+    <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
+<!-- PHP --> <!--
+    <a href="LINK_PHP" target="_blank"><img src="https://img.shields.io/badge/Certificado-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Certificado PHP"></a>
+<!-- Python --> <!--
+    <a href="LINK_PYTHON" target="_blank"><img src="https://img.shields.io/badge/Certificado-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Certificado Python"></a>
+<!-- Java --> <!--
+    <a href="LINK_JAVA" target="_blank"><img src="https://img.shields.io/badge/Certificado-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Certificado Java"></a>
+    -->
 </p>
 
 <!-- *Atualizar referencia...
