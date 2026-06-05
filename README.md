@@ -215,8 +215,6 @@ const ecossistema web3: = {
 
 </p>
 
-
-
 ---
 
 <h2 id="qualidade">
@@ -318,19 +316,19 @@ const ecossistema web3: = {
   <a href="https://github.com/Raydineiizel">
     <img
       src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=900&color=67E8F9&center=true&vCenter=true&width=950&lines=Transformamos+opera%C3%A7%C3%B5es+complexas+em+produtos+digitais.;IA%2C+automa%C3%A7%C3%A3o%2C+dados+e+UX+para+ambientes+cr%C3%ADticos.;Solu%C3%A7%C3%B5es+fiscais%2C+cont%C3%A1beis%2C+jur%C3%ADdicas+e+corporativas.;Software+com+precis%C3%A3o%2C+rastreabilidade+e+escala."
-      alt="Animação textual Núcleo Digital"
+      alt="Animação textual Raydinei Izell"
     />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Raydineiizel">
-    <img src="https://img.shields.io/badge/GitHub-ndmg--dev-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=67E8F9" alt="GitHub ndmg-dev" />
+    <img src="https://img.shields.io/badge/GitHub-Raydinei izel-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=67E8F9" alt="GitHub Raydinei Izel" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Núcleo Digital Mendonça Galvão</strong>
+  <strong>FullStackDeveloper</strong>
   <br />
   Software • IA • Automação • Dados • Experiência
 </p>
