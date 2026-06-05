@@ -170,9 +170,7 @@ const ecossistema web3: = {
         </a>
       </h3>
       <p align="justify">Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
-      <div style="display: flex; justify-content: flex-start; gap: 5px; margin-left: 0; padding-left: 0;">
-  <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
-</div>
+      <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
     </td>
   </tr>
 </table>
