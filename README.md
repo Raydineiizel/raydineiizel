@@ -89,141 +89,252 @@ const ecossistema web3: = {
     <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Certificado Git"></a>
 <!-- GitHub -->
     <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Certificado GitHub"></a>
-    
-<!-- TypeScript --> <!-- *Atualizar
+<!-- TypeScript -->
     <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
-    <!-- React --> <!--
+    <!-- React --> 
     <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a>
-<!-- Node.js --> <!--
+<!-- Node.js -->
     <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
-<!-- PHP --> <!--
+<!-- PHP -->
     <a href="LINK_PHP" target="_blank"><img src="https://img.shields.io/badge/Certificado-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Certificado PHP"></a>
-<!-- Python --> <!--
+<!-- Python -->
     <a href="LINK_PYTHON" target="_blank"><img src="https://img.shields.io/badge/Certificado-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Certificado Python"></a>
-<!-- Java --> <!--
+<!-- Java -->
     <a href="LINK_JAVA" target="_blank"><img src="https://img.shields.io/badge/Certificado-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Certificado Java"></a>
-    -->
 </p>
 
-<!-- *Atualizar referencia...
-
-## <img width="20" align="center" src="https://icongr.am/feather/star.svg?size=20&color=f59e0b" /> Featured Projects
+<h2 id="produtos">
+  <img src="https://api.iconify.design/feather:package.svg?color=%23FBBF24" width="25" alt="Ícone package" />
+  Produtos e frentes em destaque
+</h2>
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/calendar.svg?size=18&color=f59e0b" />
-        CalendAI PRO
+      <a href="https://github.com/Raydineiizel/Conversor">
+        <img src="https://api.iconify.design/feather:monitor.svg?color=%2367E8F9" width="21" alt="Ícone monitor" />
+        Conversor de moedas
+        </a>
       </h3>
-      <p>
-        A scheduling system that brings AI into calendar workflows, combining Flask, LangChain, OpenAI, Supabase/PostgreSQL, Google OAuth, and Google Calendar API to make appointment management smarter and less manual.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <a href="https://github.com/ndmg-dev/CalendarAI_PRO">View repository</a>
+      <p>React, Vite, Tailwind, dark mode, UX operacional e visualização de indicadores com foco em clareza e agilidade.</p>
+      <img src="https://img.shields.io/badge/LegalTech-020617?style=flat-square&color=A78BFA" alt="LegalTech" /><img src="https://img.shields.io/badge/IA%20Documental-020617?style=flat-square&color=67E8F9" alt="IA Documental" />
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/message-square.svg?size=18&color=ec4899" />
-        Ouvidoria MG
+      <a href="https://github.com/Raydineiizel/Conversor">
+        <img src="https://api.iconify.design/feather:server.svg?color=%2314B8A6" width="21" alt="Ícone server" />
+        Sorteador
+        </a>
       </h3>
-      <p>
-        A corporate ombudsman platform built around authentication, structured data, AI search, and RAG. It connects Supabase, pgvector, OpenAI, n8n, and Docker to help transform internal knowledge into searchable, actionable answers.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-AI%20Search-06B6D4?style=flat-square"/>
-        <img src="https://img.shields.io/badge/pgvector-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-GPT%20%2B%20Embeddings-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <a href="https://github.com/ndmg-dev/ouvidoria-mg">View repository</a>
+      <p>FastAPI, Flask e Django compondo serviços modulares, integrações robustas e fluxos orientados por regra de negócio.</p>
+      <img src="https://img.shields.io/badge/Contabilidade-020617?style=flat-square&color=14B8A6" alt="Contabilidade" /><img src="https://img.shields.io/badge/RAG-020617?style=flat-square&color=FBBF24" alt="RAG" />
+    </td>
+    <td width="33%">
+      <h3>
+      <a href="https://github.com/Raydineiizel/Conversor">
+        <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
+        IA & automação
+        </a>
+      </h3>
+      <p>Copilotos, agentes, RAG, análise documental, classificação semântica e automações conectadas à rotina real.</p>
+      <img src="https://img.shields.io/badge/Fiscal-020617?style=flat-square&color=22C55E" alt="Fiscal" /><img src="https://img.shields.io/badge/RPA-020617?style=flat-square&color=67E8F9" alt="RPA" />
     </td>
   </tr>
-
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/trending-up.svg?size=18&color=22d3ee" />
-        Dollar Tracker
+      <a href="https://github.com/Raydineiizel/Conversor">
+        <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="21" alt="Ícone file-text" />
+        Fiscal, contábil & jurídico
+        </a>
       </h3>
-      <p>
-        A Flask dashboard for tracking USD/BRL exchange rates with historical storage, scheduled updates, statistical analysis, and interactive charts, turning financial data into a clean monitoring experience.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/APScheduler-Automation-0EA5E9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <a href="https://github.com/monteiro-lab/dolar-tracker">View repository</a>
+      <p>Motores de regra, auditoria, documentos, cálculos, relatórios e rastreabilidade para decisões com segurança.</p>
+      <img src="https://img.shields.io/badge/Financeiro-020617?style=flat-square&color=FBBF24" alt="Financeiro" /><img src="https://img.shields.io/badge/Classifica%C3%A7%C3%A3o%20IA-020617?style=flat-square&color=A78BFA" alt="Classificação IA" />
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/database.svg?size=18&color=10b981" />
-        DataFlow
+      <a href="https://github.com/Raydineiizel/Conversor">
+        <img src="https://api.iconify.design/feather:database.svg?color=%2322C55E" width="21" alt="Ícone database" />
+        Dados & autenticação
+        </a>
       </h3>
-      <p>
-        A Streamlit data tool for cleaning, transforming, analyzing, and exporting CSV/XLSX files. Built for the kind of spreadsheet work that is common, repetitive, and perfect for automation.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSV%2FXLSX-Data%20Ops-22C55E?style=flat-square"/>
-      </p>
-      <a href="https://github.com/monteiro-lab/dataflow">View repository</a>
+      <p>Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
+      <img src="https://img.shields.io/badge/SaaS-020617?style=flat-square&color=67E8F9" alt="SaaS" /><img src="https://img.shields.io/badge/Tribut%C3%A1rio-020617?style=flat-square&color=14B8A6" alt="Tributário" />
     </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
+    <td width="33%">
       <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/file.svg?size=18&color=a78bfa" />
-        Cotidiano PDF Studio
+      <a href="https://github.com/Raydineiizel/Conversor">
+        <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="21" alt="Ícone cloud" />
+        Deploy & operação
+        </a>
       </h3>
-      <p>
-        A desktop PDF productivity tool built with Python, focused on editing, merging, extracting text, selecting pages, and handling everyday document operations through a cleaner interface.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CustomTkinter-Desktop%20UI-0F172A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/PyMuPDF-PDF%20Engine-0891B2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Pillow-Images-F59E0B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/PyInstaller-Executable-6366F1?style=flat-square"/>
-      </p>
-      <a href="https://github.com/monteiro-lab/cotidiano-pdf-studio">View repository</a>
-    </td>
-    <td width="50%">
-      <h3>
-        <img width="18" align="center" src="https://icongr.am/feather/grid.svg?size=18&color=fb7185" />
-        FiscalPro
-      </h3>
-      <p>
-        A Django-based fiscal analysis platform for ICMS calculations, Excel uploads, interactive analytics, and report generation, built to simplify technical fiscal workflows through software.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <a href="https://github.com/monteiro-lab/FiscalPro">View repository</a>
+      <p>Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
+      <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
     </td>
   </tr>
 </table>
 
-...* Atalizar referencia-->
+<details>
+  <summary>
+    <strong>
+      <img src="https://api.iconify.design/feather:plus-circle.svg?color=%2367E8F9" width="18" alt="Ícone plus-circle" />
+      <img src="https://api.iconify.design/feather:file-text.svg?color=%2367E8F9" width="21" alt="Ícone file-text" />
+      <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
+      <img src="https://api.iconify.design/feather:map.svg?color=%2322C55E" width="21" alt="Ícone map" />
+      <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%23FBBF24" width="21" alt="Ícone bar-chart-2" /> 
+      <img src="https://api.iconify.design/feather:sliders.svg?color=%2367E8F9" width="21" alt="Ícone sliders" />
+      <img src="https://api.iconify.design/feather:calendar.svg?color=%2322C55E" width="21" alt="Ícone calendar" /> Ver outras frentes de desenvolvimento
+    </strong>
+  </summary>
 
-</div>
-<br>
+<br />
+
+| Produto | Valor entregue | Stack dominante |
+| --- | --- | --- |
+| [fiscal-fronteira](https://github.com/ndmg-dev/fiscal-fronteira) | Importação de NF-e, classificação fiscal, ICMS Fronteira/ST, memória de cálculo e XLSX para auditoria. | Django, PostgreSQL, Docker, Tabler UI |
+| [ABRIR_EMPRESA](https://github.com/ndmg-dev/ABRIR_EMPRESA) | Wizard para abertura de empresas com upload documental, Supabase Storage e e-mails transacionais. | FastAPI, Supabase, Brevo, Railway |
+| [portal-mg](https://github.com/ndmg-dev/portal-mg) | Hub corporativo para centralizar sistemas internos, acessos e jornadas de colaboradores. | Flask, HTML, CSS, JavaScript |
+| [TASK_MANANGER](https://github.com/ndmg-dev/TASK_MANANGER) | Gestão de tarefas, Kanban, RBAC, revisão de código com IA e integração com GitHub. | React, Flask, Supabase, IA |
+
+</details>
+
+
+
+<h2 id="pulso">
+  <img src="https://api.iconify.design/feather:activity.svg?color=%2367E8F9" width="25" alt="Ícone activity" />
+  Pulso do desenvolvimento
+</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</p>
+
+
+
+---
+
+<h2 id="qualidade">
+  <img src="https://api.iconify.design/feather:check-circle.svg?color=%2322C55E" width="25" alt="Ícone check-circle" />
+  Padrão de qualidade
+</h2>
+
+<table>
+  <tr>
+    <td width="32%">
+      <h3>
+        <img src="https://api.iconify.design/feather:target.svg?color=%2367E8F9" width="21" alt="Ícone target" />
+        Produto antes de tela
+      </h3>
+    </td>
+    <td>Mapeamos a dor operacional, desenhamos a jornada, validamos regras e só então codamos a experiência.</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>
+        <img src="https://api.iconify.design/feather:hash.svg?color=%23FBBF24" width="21" alt="Ícone hash" />
+        Precisão onde importa
+      </h3>
+    </td>
+    <td>Em cálculo fiscal e financeiro, priorizamos motores determinísticos, trilhas de auditoria e fidelidade de regra.</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>
+        <img src="https://api.iconify.design/feather:lock.svg?color=%2322C55E" width="21" alt="Ícone lock" />
+        Segurança por arquitetura
+      </h3>
+    </td>
+    <td>RBAC, RLS, JWT, OAuth, segregação multi-tenant, cuidado com chaves, storage e permissões.</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>
+        <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
+        IA com contexto e limite
+      </h3>
+    </td>
+    <td>Aplicamos IA onde ela acelera leitura, classificação, criação e decisão, sem abrir mão de validações e logs.</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>
+        <img src="https://api.iconify.design/feather:edit-3.svg?color=%2360A5FA" width="21" alt="Ícone edit-3" />
+        UX com refinamento
+      </h3>
+    </td>
+    <td>Interfaces em dark mode, componentes limpos, microinterações, dashboards legíveis e menos fricção para quem opera.</td>
+  </tr>
+</table>
+
+---
+
+<h2 id="diferenciais">
+  <img src="https://api.iconify.design/feather:star.svg?color=%23FBBF24" width="25" alt="Ícone star" />
+  Diferenciais
+</h2>
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://api.iconify.design/feather:crosshair.svg?color=%2367E8F9" width="34" alt="Ícone crosshair" />
+      <br />
+      <strong>Domínio do negócio</strong>
+      <br />
+      Tecnologia conectada ao vocabulário fiscal, contábil, jurídico e operacional.
+    </td>
+    <td width="25%" align="center">
+      <img src="https://api.iconify.design/feather:repeat.svg?color=%2322C55E" width="34" alt="Ícone repeat" />
+      <br />
+      <strong>Automação real</strong>
+      <br />
+      Menos tarefas manuais, mais fluxo, integração e controle.
+    </td>
+    <td width="25%" align="center">
+      <img src="https://api.iconify.design/feather:database.svg?color=%23FBBF24" width="34" alt="Ícone database" />
+      <br />
+      <strong>Dados rastreáveis</strong>
+      <br />
+      Logs, histórico, auditoria, exportações e memória de cálculo.
+    </td>
+    <td width="25%" align="center">
+      <img src="https://api.iconify.design/feather:layout.svg?color=%23A78BFA" width="34" alt="Ícone layout" />
+      <br />
+      <strong>Experiência premium</strong>
+      <br />
+      Interfaces que reduzem fricção e tornam processos complexos mais simples.
+    </td>
+  </tr>
+</table>
+
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Raydineiizel">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=900&color=67E8F9&center=true&vCenter=true&width=950&lines=Transformamos+opera%C3%A7%C3%B5es+complexas+em+produtos+digitais.;IA%2C+automa%C3%A7%C3%A3o%2C+dados+e+UX+para+ambientes+cr%C3%ADticos.;Solu%C3%A7%C3%B5es+fiscais%2C+cont%C3%A1beis%2C+jur%C3%ADdicas+e+corporativas.;Software+com+precis%C3%A3o%2C+rastreabilidade+e+escala."
+      alt="Animação textual Núcleo Digital"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raydineiizel">
+    <img src="https://img.shields.io/badge/GitHub-ndmg--dev-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=67E8F9" alt="GitHub ndmg-dev" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Núcleo Digital Mendonça Galvão</strong>
+  <br />
+  Software • IA • Automação • Dados • Experiência
+</p>
+
 <p align="center">Desenvolvido com ☕ e código por Raydinei Izel.</p>
+
+
 
