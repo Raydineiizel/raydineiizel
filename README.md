@@ -99,7 +99,7 @@ const ecossistema web3: = {
       <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:shuffle.svg?color=%2314B8A6" width="21" alt="Ícone server" />
-          SORTEADOR DE NÚMERO ALETÓRIO
+          SORTEADOR DE NÚMERO
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Contabilidade-020617?style=flat-square&color=14B8A6" alt="Contabilidade" /><img src="https://img.shields.io/badge/RAG-020617?style=flat-square&color=FBBF24" alt="RAG" />
