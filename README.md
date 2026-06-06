@@ -120,9 +120,9 @@ const ecossistema web3: = {
       <img src="https://img.shields.io/badge/LegalTech-020617?style=flat-square&color=A78BFA" alt="LegalTech" /><img src="https://img.shields.io/badge/IA%20Documental-020617?style=flat-square&color=67E8F9" alt="IA Documental" />
       <p align="justify">React, Vite, Tailwind, dark mode, UX operacional e visualização de indicadores com foco em clareza e agilidade.</p>
       <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="50%" />
-</p>
-      </td>
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
+      </p>
+    </td>
     <td width="33%">
       <h3>
       <a href="https://github.com/Raydineiizel/Conversor">
@@ -132,7 +132,10 @@ const ecossistema web3: = {
       </h3>
       <img src="https://img.shields.io/badge/Contabilidade-020617?style=flat-square&color=14B8A6" alt="Contabilidade" /><img src="https://img.shields.io/badge/RAG-020617?style=flat-square&color=FBBF24" alt="RAG" />
       <p align="justify">FastAPI, Flask e Django compondo serviços modulares, integrações robustas e fluxos orientados por regra de negócio.</p>
-          </td>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
+      </p>
+    </td>
     <td width="33%">
       <h3>
       <a href="https://github.com/Raydineiizel/Conversor">
@@ -141,7 +144,9 @@ const ecossistema web3: = {
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Fiscal-020617?style=flat-square&color=22C55E" alt="Fiscal" /><img src="https://img.shields.io/badge/RPA-020617?style=flat-square&color=67E8F9" alt="RPA" />
-      <p align="justify">Copilotos, agentes, RAG, análise documental, classificação semântica e automações conectadas à rotina real.</p>     
+      <p align="justify">Copilotos, agentes, RAG, análise documental, classificação semântica e automações conectadas à rotina real.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />     
     </td>
   </tr>
   <tr>
@@ -154,6 +159,8 @@ const ecossistema web3: = {
       </h3>
       <img src="https://img.shields.io/badge/Financeiro-020617?style=flat-square&color=FBBF24" alt="Financeiro" /><img src="https://img.shields.io/badge/Classifica%C3%A7%C3%A3o%20IA-020617?style=flat-square&color=A78BFA" alt="Classificação IA" />
       <p align="justify">Motores de regra, auditoria, documentos, cálculos, relatórios e rastreabilidade para decisões com segurança.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
     </td>
     <td width="33%">
       <h3>
@@ -164,6 +171,8 @@ const ecossistema web3: = {
       </h3>
       <img src="https://img.shields.io/badge/SaaS-020617?style=flat-square&color=67E8F9" alt="SaaS" /><img src="https://img.shields.io/badge/Tribut%C3%A1rio-020617?style=flat-square&color=14B8A6" alt="Tributário" />
       <p align="justify">Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
     </td>
     <td width="33%">
       <h3>
@@ -174,6 +183,8 @@ const ecossistema web3: = {
       </h3>
       <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
       <p align="justify">Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
     </td>
   </tr>
 </table>
