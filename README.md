@@ -140,7 +140,7 @@ const ecossistema web3: = {
       <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:database.svg?color=%2322C55E" width="21" alt="Ícone database" />
-          Dados & autenticação
+          DADOS & AUTENTICAÇÃO
         </a>
       </h3>
       <img src="https://img.shields.io/badge/SaaS-020617?style=flat-square&color=67E8F9" alt="SaaS" /><img src="https://img.shields.io/badge/Tribut%C3%A1rio-020617?style=flat-square&color=14B8A6" alt="Tributário" />
@@ -153,7 +153,7 @@ const ecossistema web3: = {
       <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="21" alt="Ícone cloud" />
-          Deploy & operação
+          DEFI & OPERAÇÃO
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
