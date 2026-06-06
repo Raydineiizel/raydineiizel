@@ -5,7 +5,7 @@
 
 ```python
 #!/usr/bin/python
-# -*- coding: utf-4 -*-
+# -*- coding: utf-8 -*-
 
 class FullStackDeveloper: #DevClub🥑
 
