@@ -132,7 +132,7 @@ const ecossistemaWeb3 = {
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Financeiro-020617?style=flat-square&color=FBBF24" alt="Financeiro" /><img src="https://img.shields.io/badge/Classifica%C3%A7%C3%A3o%20IA-020617?style=flat-square&color=A78BFA" alt="Classificação IA" />
-      <p align="justify">Aqui encontra-se meu README, crie minha pagina inicial com base e referencia de vário outros de referêcia, espero que gostem e siva de inspiração.</p>
+      <p align="justify">Aqui encontra-se meu README, criei minha pagina inicial com base e referencia de vário outros projetos, espero que gostem e sirva de inspiração também.</p>
       <p align="left">
         <img src="https://skillicons.dev/icons?i=html,css,py,js,git,github,&theme=light" width="50%" />
       </p>
@@ -198,12 +198,11 @@ const ecossistemaWeb3 = {
 </h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raydineiizel/raydineiizel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raydineiizel/raydineiizel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raydineiizel/raydineiizel/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raydineiizel/raydineiizel/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raydineiizel/raydineiizel/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raydineiizel/raydineiizel/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -215,7 +214,7 @@ const ecossistemaWeb3 = {
 
 <table>
   <tr>
-    <td width="32%">
+    <td width="35%">
       <h3>
         <img src="https://api.iconify.design/feather:target.svg?color=%2367E8F9" width="21" alt="Ícone target" />
         Produto antes de tela
@@ -224,7 +223,7 @@ const ecossistemaWeb3 = {
     <td>Mapeamos a dor operacional, desenhamos a jornada, validamos regras e só então codamos a experiência.</td>
   </tr>
   <tr>
-    <td>
+    <td width="35%">
       <h3>
         <img src="https://api.iconify.design/feather:hash.svg?color=%23FBBF24" width="21" alt="Ícone hash" />
         Precisão onde importa
@@ -233,7 +232,7 @@ const ecossistemaWeb3 = {
     <td>Em cálculo fiscal e financeiro, priorizamos motores determinísticos, trilhas de auditoria e fidelidade de regra.</td>
   </tr>
   <tr>
-    <td>
+    <td width="35%">
       <h3>
         <img src="https://api.iconify.design/feather:lock.svg?color=%2322C55E" width="21" alt="Ícone lock" />
         Segurança por arquitetura
@@ -242,7 +241,7 @@ const ecossistemaWeb3 = {
     <td>RBAC, RLS, JWT, OAuth, segregação multi-tenant, cuidado com chaves, storage e permissões.</td>
   </tr>
   <tr>
-    <td>
+    <td width="35%">
       <h3>
         <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
         IA com contexto e limite
@@ -251,7 +250,7 @@ const ecossistemaWeb3 = {
     <td>Aplicamos IA onde ela acelera leitura, classificação, criação e decisão, sem abrir mão de validações e logs.</td>
   </tr>
   <tr>
-    <td>
+    <td width="35%">
       <h3>
         <img src="https://api.iconify.design/feather:edit-3.svg?color=%2360A5FA" width="21" alt="Ícone edit-3" />
         UX com refinamento
@@ -282,7 +281,7 @@ const ecossistemaWeb3 = {
       <br />
       <strong>Automação real</strong>
       <br />
-      Menos tarefas manuais, mais fluxo, integração e controle.
+      Menos tarefas manuais, mais fluxo, integration e controle.
     </td>
     <td width="25%" align="center">
       <img src="https://api.iconify.design/feather:database.svg?color=%23FBBF24" width="34" alt="Ícone database" />
@@ -301,13 +300,11 @@ const ecossistemaWeb3 = {
   </tr>
 </table>
 
-</h2>
-
 <p align="center">
   <a href="https://github.com/Raydineiizel">
     <img
       src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=900&color=67E8F9&center=true&vCenter=true&width=950&lines=Transformamos+opera%C3%A7%C3%B5es+complexas+em+produtos+digitais.;IA%2C+automa%C3%A7%C3%A3o%2C+dados+e+UX+para+ambientes+cr%C3%ADticos.;Solu%C3%A7%C3%B5es+fiscais%2C+cont%C3%A1beis%2C+jur%C3%ADdicas+e+corporativas.;Software+com+precis%C3%A3o%2C+rastreabilidade+e+escala."
-      alt="Animação textual Raydinei Izell"
+      alt="Animação textual Raydinei Izel"
     />
   </a>
 </p>
