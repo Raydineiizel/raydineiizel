@@ -114,22 +114,25 @@ const ecossistema web3: = {
       <h3>
       <a href="https://github.com/Raydineiizel/Conversor">
         <img src="https://api.iconify.design/feather:monitor.svg?color=%2367E8F9" width="21" alt="Ícone monitor" />
-        Conversor de moedas
+        CONVERSOR DE MOEDAS 
         </a>
       </h3>
-      <p align="justify">React, Vite, Tailwind, dark mode, UX operacional e visualização de indicadores com foco em clareza e agilidade.</p>
       <img src="https://img.shields.io/badge/LegalTech-020617?style=flat-square&color=A78BFA" alt="LegalTech" /><img src="https://img.shields.io/badge/IA%20Documental-020617?style=flat-square&color=67E8F9" alt="IA Documental" />
-    </td>
+      <p align="justify">React, Vite, Tailwind, dark mode, UX operacional e visualização de indicadores com foco em clareza e agilidade.</p>
+      <p align="left">
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="50%" />
+</p>
+      </td>
     <td width="33%">
       <h3>
       <a href="https://github.com/Raydineiizel/Conversor">
         <img src="https://api.iconify.design/feather:server.svg?color=%2314B8A6" width="21" alt="Ícone server" />
-        Sorteador
+        SORTEADOR
         </a>
       </h3>
-      <p align="justify">FastAPI, Flask e Django compondo serviços modulares, integrações robustas e fluxos orientados por regra de negócio.</p>
       <img src="https://img.shields.io/badge/Contabilidade-020617?style=flat-square&color=14B8A6" alt="Contabilidade" /><img src="https://img.shields.io/badge/RAG-020617?style=flat-square&color=FBBF24" alt="RAG" />
-    </td>
+      <p align="justify">FastAPI, Flask e Django compondo serviços modulares, integrações robustas e fluxos orientados por regra de negócio.</p>
+          </td>
     <td width="33%">
       <h3>
       <a href="https://github.com/Raydineiizel/Conversor">
@@ -137,8 +140,8 @@ const ecossistema web3: = {
         IA & automação
         </a>
       </h3>
-      <p align="justify">Copilotos, agentes, RAG, análise documental, classificação semântica e automações conectadas à rotina real.</p>
       <img src="https://img.shields.io/badge/Fiscal-020617?style=flat-square&color=22C55E" alt="Fiscal" /><img src="https://img.shields.io/badge/RPA-020617?style=flat-square&color=67E8F9" alt="RPA" />
+      <p align="justify">Copilotos, agentes, RAG, análise documental, classificação semântica e automações conectadas à rotina real.</p>     
     </td>
   </tr>
   <tr>
@@ -149,8 +152,8 @@ const ecossistema web3: = {
         Fiscal, contábil & jurídico
         </a>
       </h3>
-      <p align="justify">Motores de regra, auditoria, documentos, cálculos, relatórios e rastreabilidade para decisões com segurança.</p>
       <img src="https://img.shields.io/badge/Financeiro-020617?style=flat-square&color=FBBF24" alt="Financeiro" /><img src="https://img.shields.io/badge/Classifica%C3%A7%C3%A3o%20IA-020617?style=flat-square&color=A78BFA" alt="Classificação IA" />
+      <p align="justify">Motores de regra, auditoria, documentos, cálculos, relatórios e rastreabilidade para decisões com segurança.</p>
     </td>
     <td width="33%">
       <h3>
@@ -159,8 +162,8 @@ const ecossistema web3: = {
         Dados & autenticação
         </a>
       </h3>
-      <p align="justify">Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
       <img src="https://img.shields.io/badge/SaaS-020617?style=flat-square&color=67E8F9" alt="SaaS" /><img src="https://img.shields.io/badge/Tribut%C3%A1rio-020617?style=flat-square&color=14B8A6" alt="Tributário" />
+      <p align="justify">Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
     </td>
     <td width="33%">
       <h3>
@@ -169,8 +172,8 @@ const ecossistema web3: = {
         Deploy & operação
         </a>
       </h3>
-      <p align="justify">Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
       <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
+      <p align="justify">Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
     </td>
   </tr>
 </table>
@@ -332,8 +335,10 @@ const ecossistema web3: = {
   <br />
   Software • IA • Automação • Dados • Experiência
 </p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <p align="center">Desenvolvido com ☕ e código por Raydinei Izel.</p>
+
 
 
 
