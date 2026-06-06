@@ -27,7 +27,6 @@ class FullStackDeveloper: #DevClub🥑
 me = FullStackDeveloper()
 me.say_hi()
 
-
 #    Trago comigo uma sólida bagagem anterior em análise de sistemas e resolução de problemas complexos,
 #    competências que hoje direcionam para a criação de tecnologia de ponta. Renho experiência prática no
 #    gerenciamento de plataformas escolares, ecossistemas de DeFi e projetos de rastreabilidade em Blockchain.
