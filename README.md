@@ -7,18 +7,26 @@
 #!/usr/bin/python
 # -*- coding: utf-4 -*-
 
-class FullStackDeveloper: devclub🥑
+class FullStackDeveloper: #DevClub🥑
 
     def __init__(self):
         self.name = "Raydinei Izel"
         self.role = "Software Engineer"
         self.language_spoken = ["pt_BR", "en_US"]
+        self.skills = {
+            "frontend": ["HTML", "CSS", "JavaScript", "React", "Vite", "Tailwind"],
+            "backend": ["FastAPI", "Flask", "Django", "Node.js"],
+            "database_auth": ["Supabase", "PostgreSQL", "JWT", "OAuth"],
+            "devops_infra": ["Docker", "GitHub Actions", "Railway", "Vercel", "NGINX"],
+            "web3_ai": ["RAG", "AI Agents", "Smart Contracts"]
+        }
 
     def say_hi(self):
         print("Estou em transição de carreira e em formação plena como desenvolvedor Full Stack e Web3.")
 
-me = SoftwareEngineer()
+me = FullStackDeveloper()
 me.say_hi()
+
 
 #    Trago comigo uma sólida bagagem anterior em análise de sistemas e resolução de problemas complexos,
 #    competências que hoje direcionam para a criação de tecnologia de ponta. Renho experiência prática no
@@ -112,79 +120,83 @@ const ecossistema web3: = {
   <tr>
     <td width="33%">
       <h3>
-      <a href="https://github.com/Raydineiizel/Conversor">
-        <img src="https://api.iconify.design/feather:monitor.svg?color=%2367E8F9" width="21" alt="Ícone monitor" />
-        CONVERSOR DE MOEDAS 
+        <a href="https://github.com/Raydineiizel/Conversor">
+          <img src="https://api.iconify.design/feather:monitor.svg?color=%2367E8F9" width="21" alt="Ícone monitor" />
+          CONVERSOR DE MOEDAS 
         </a>
       </h3>
       <img src="https://img.shields.io/badge/LegalTech-020617?style=flat-square&color=A78BFA" alt="LegalTech" /><img src="https://img.shields.io/badge/IA%20Documental-020617?style=flat-square&color=67E8F9" alt="IA Documental" />
       <p align="justify">React, Vite, Tailwind, dark mode, UX operacional e visualização de indicadores com foco em clareza e agilidade.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="180" />
       </p>
     </td>
     <td width="33%">
       <h3>
-      <a href="https://github.com/Raydineiizel/Conversor">
-        <img src="https://api.iconify.design/feather:server.svg?color=%2314B8A6" width="21" alt="Ícone server" />
-        SORTEADOR
+        <a href="https://github.com/Raydineiizel/Conversor">
+          <img src="https://api.iconify.design/feather:server.svg?color=%2314B8A6" width="21" alt="Ícone server" />
+          SORTEADOR
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Contabilidade-020617?style=flat-square&color=14B8A6" alt="Contabilidade" /><img src="https://img.shields.io/badge/RAG-020617?style=flat-square&color=FBBF24" alt="RAG" />
       <p align="justify">FastAPI, Flask e Django compondo serviços modulares, integrações robustas e fluxos orientados por regra de negócio.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="180" />
       </p>
     </td>
     <td width="33%">
       <h3>
-      <a href="https://github.com/Raydineiizel/Conversor">
-        <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
-        IA & automação
+        <a href="https://github.com/Raydineiizel/Conversor">
+          <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
+          IA & automação
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Fiscal-020617?style=flat-square&color=22C55E" alt="Fiscal" /><img src="https://img.shields.io/badge/RPA-020617?style=flat-square&color=67E8F9" alt="RPA" />
       <p align="justify">Copilotos, agentes, RAG, análise documental, classificação semântica e automações conectadas à rotina real.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />     
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="180" />     
+      </p>
     </td>
   </tr>
   <tr>
     <td width="33%">
       <h3>
-      <a href="https://github.com/Raydineiizel/Conversor">
-        <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="21" alt="Ícone file-text" />
-        Fiscal, contábil & jurídico
+        <a href="https://github.com/Raydineiizel/Conversor">
+          <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="21" alt="Ícone file-text" />
+          Fiscal, contábil & jurídico
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Financeiro-020617?style=flat-square&color=FBBF24" alt="Financeiro" /><img src="https://img.shields.io/badge/Classifica%C3%A7%C3%A3o%20IA-020617?style=flat-square&color=A78BFA" alt="Classificação IA" />
       <p align="justify">Motores de regra, auditoria, documentos, cálculos, relatórios e rastreabilidade para decisões com segurança.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="180" />
+      </p>
     </td>
     <td width="33%">
       <h3>
-      <a href="https://github.com/Raydineiizel/Conversor">
-        <img src="https://api.iconify.design/feather:database.svg?color=%2322C55E" width="21" alt="Ícone database" />
-        Dados & autenticação
+        <a href="https://github.com/Raydineiizel/Conversor">
+          <img src="https://api.iconify.design/feather:database.svg?color=%2322C55E" width="21" alt="Ícone database" />
+          Dados & autenticação
         </a>
       </h3>
       <img src="https://img.shields.io/badge/SaaS-020617?style=flat-square&color=67E8F9" alt="SaaS" /><img src="https://img.shields.io/badge/Tribut%C3%A1rio-020617?style=flat-square&color=14B8A6" alt="Tributário" />
       <p align="justify">Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="180" />
+      </p>
     </td>
     <td width="33%">
       <h3>
-      <a href="https://github.com/Raydineiizel/Conversor">
-        <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="21" alt="Ícone cloud" />
-        Deploy & operação
+        <a href="https://github.com/Raydineiizel/Conversor">
+          <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="21" alt="Ícone cloud" />
+          Deploy & operação
         </a>
       </h3>
       <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
       <p align="justify">Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="200vh" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=light" width="180" />
+      </p>
     </td>
   </tr>
 </table>
@@ -349,7 +361,3 @@ const ecossistema web3: = {
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <p align="center">Desenvolvido com ☕ e código por Raydinei Izel.</p>
-
-
-
-
