@@ -69,7 +69,7 @@ const ecossistemaWeb3 = {
 <!-- TypeScript -->
     <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
 <!-- React --> 
-    <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a>
+    <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-14B8A6?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a>
 <!-- Node.js -->
     <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
 <!-- PHP -->
@@ -269,8 +269,7 @@ const ecossistemaWeb3 = {
   </tr>
 </table>
 
----
-
+<!--Tabela de Diferencial -->
 <h2 id="diferenciais">
   <img src="https://api.iconify.design/feather:star.svg?color=%23FBBF24" width="25" alt="Ícone star" />
   Diferenciais
