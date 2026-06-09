@@ -47,7 +47,7 @@ const ecossistemaWeb3 = {
     desafio: "Sem tomar muito RedBull."
 };
 ```
-
+<!--Caixa com certificados -->
 <div align="center">
     
 **`Certificações e Conquistas (Clique para validar)`** ⬇️
@@ -81,8 +81,9 @@ const ecossistemaWeb3 = {
       <br>
       <br>
   </kbd>
-  <p align="center">    
-       
+  <p align="center">
+
+<!--Tabela de produtos em destaques -->
 <h2 id="produtos">
   <img src="https://api.iconify.design/feather:package.svg?color=%23FBBF24" width="25" alt="Ícone package" />
   Produtos e projetos em destaque
@@ -90,8 +91,8 @@ const ecossistemaWeb3 = {
 
 <table>
   <tr>
-    <td width="33%">
-      <h3>
+    <td width="50%">
+        <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:dollar-sign.svg?color=%23FBBF24" width="21" alt="Ícone monitor" />
           CONVERSOR DE MOEDAS 
@@ -103,8 +104,8 @@ const ecossistemaWeb3 = {
         <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="50%" />
       </p>
     </td>
-    <td width="33%">
-      <h3>
+    <td width="50%">
+        <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:shuffle.svg?color=%2314B8A6" width="21" alt="Ícone server" />
           SORTEADOR DE NÚMERO
@@ -116,7 +117,9 @@ const ecossistemaWeb3 = {
         <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="50%" />
       </p>
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>
         <a href="https://github.com/Raydineiizel/Easy-Story">
           <img src="https://api.iconify.design/feather:shopping-bag.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
@@ -129,9 +132,7 @@ const ecossistemaWeb3 = {
         <img src="https://skillicons.dev/icons?i=html,css,git,github,figma,vscode,&theme=light" width="50%" />     
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="33%">
+    <td width="50%">
       <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:file-text.svg?color=%23FBBF24" width="21" alt="Ícone file-text" />
@@ -144,7 +145,9 @@ const ecossistemaWeb3 = {
         <img src="https://skillicons.dev/icons?i=html,css,py,js,git,github,&theme=light" width="50%" />
       </p>
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:database.svg?color=%2322C55E" width="21" alt="Ícone database" />
@@ -156,9 +159,10 @@ const ecossistemaWeb3 = {
       <p align="left">
         <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="50%" />
       </p>
+      </h3>
     </td>
-    <td width="33%">
-      <h3>
+    <td width="50%">
+        <h3>
         <a href="https://github.com/Raydineiizel/Conversor">
           <img src="https://api.iconify.design/feather:cloud.svg?color=%2360A5FA" width="21" alt="Ícone cloud" />
           DEFI & OPERAÇÃO
@@ -171,8 +175,8 @@ const ecossistemaWeb3 = {
       </p>
     </td>
   </tr>
-</table>
-
+   </table>
+<!--Tabela (outrass ferramentas) -->
 <details>
   <summary>
     <strong>
@@ -190,15 +194,14 @@ const ecossistemaWeb3 = {
 
 | Produto | Valor entregue | Stack dominante |
 | --- | --- | --- |
-| [fiscal-fronteira](https://github.com/ndmg-dev/fiscal-fronteira) | Importação de NF-e, classificação fiscal, ICMS Fronteira/ST, memória de cálculo e XLSX para auditoria. | Django, PostgreSQL, Docker, Tabler UI |
-| [ABRIR_EMPRESA](https://github.com/ndmg-dev/ABRIR_EMPRESA) | Wizard para abertura de empresas com upload documental, Supabase Storage e e-mails transacionais. | FastAPI, Supabase, Brevo, Railway |
-| [portal-mg](https://github.com/ndmg-dev/portal-mg) | Hub corporativo para centralizar sistemas internos, acessos e jornadas de colaboradores. | Flask, HTML, CSS, JavaScript |
-| [TASK_MANANGER](https://github.com/ndmg-dev/TASK_MANANGER) | Gestão de tarefas, Kanban, RBAC, revisão de código com IA e integração com GitHub. | React, Flask, Supabase, IA |
-
+| [fiscal-fronteira](link) | Importação de NF-e, classificação fiscal, ICMS Fronteira/ST, memória de cálculo e XLSX para auditoria. | Django, PostgreSQL, Docker, Tabler UI |
+| [ABRIR_EMPRESA](link) | Wizard para abertura de empresas com upload documental, Supabase Storage e e-mails transacionais. | FastAPI, Supabase, Brevo, Railway |
+| [portal-mg](link) | Hub corporativo para centralizar sistemas internos, acessos e jornadas de colaboradores. | Flask, HTML, CSS, JavaScript |
+| [TASK_MANANGER](link) | Gestão de tarefas, Kanban, RBAC, revisão de código com IA e integração com GitHub. | React, Flask, Supabase, IA |
 </details>
 
 
-
+<!--SNK -->
 <h2 id="pulso">
   <img src="https://api.iconify.design/feather:activity.svg?color=%2367E8F9" width="25" alt="Ícone activity" />
   Pulso do desenvolvimento
@@ -212,8 +215,7 @@ const ecossistemaWeb3 = {
   </picture>
 </p>
 
----
-
+<!--Tabela de Qualidade -->
 <h2 id="qualidade">
   <img src="https://api.iconify.design/feather:check-circle.svg?color=%2322C55E" width="25" alt="Ícone check-circle" />
   Padrão de qualidade
@@ -329,7 +331,7 @@ const ecossistemaWeb3 = {
 </p>
 
 <p align="center">Desenvolvido com ☕ e código por Raydinei Izel.</p>
-<!-- Tecnologias em linha única -->
+<!-- #TAGS = Tecnologias em linha única -->
 <!-- HTML5 -->
     <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> -->
 <!-- CSS3 -->
