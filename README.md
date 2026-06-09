@@ -48,9 +48,14 @@ const ecossistemaWeb3 = {
 };
 ```
 
+<div align="center">
+    
 **`Certificações e Conquistas (Clique para validar)`** ⬇️
+</div>
 
-<p align="left">
+<p style="display: inline-block;" align="center">  
+  <kbd>
+    <br>
 <!-- HTML5 -->
     <a href="https://formacoes.devclub.com.br/verify/504722a5d5c8f826c13bed9ecbfce219b56f2863" target="_blank"><img src="https://img.shields.io/badge/Certificado-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Certificado HTML5"></a>
 <!-- CSS3 -->
@@ -62,20 +67,22 @@ const ecossistemaWeb3 = {
 <!-- GitHub -->
     <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Certificado GitHub"></a>
 <!-- TypeScript -->
-    <!-- <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a> -->
+    <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
 <!-- React --> 
-    <!-- <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a> -->
+    <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a>
 <!-- Node.js -->
-    <!-- <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a> -->
+    <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
 <!-- PHP -->
-    <!-- <a href="LINK_PHP" target="_blank"><img src="https://img.shields.io/badge/Certificado-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Certificado PHP"></a> -->
+    <a href="LINK_PHP" target="_blank"><img src="https://img.shields.io/badge/Certificado-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Certificado PHP"></a>
 <!-- Python -->
-    <!-- <a href="LINK_PYTHON" target="_blank"><img src="https://img.shields.io/badge/Certificado-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Certificado Python"></a> -->
+    <a href="LINK_PYTHON" target="_blank"><img src="https://img.shields.io/badge/Certificado-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Certificado Python"></a>
 <!-- Java -->
-    <!-- <a href="LINK_JAVA" target="_blank"><img src="https://img.shields.io/badge/Certificado-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Certificado Java"></a> -->
-</p>
-
-
+    <a href="LINK_JAVA" target="_blank"><img src="https://img.shields.io/badge/Certificado-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Certificado Java"></a>
+      <br>
+      <br>
+  </kbd>
+  <p align="center">    
+       
 <h2 id="produtos">
   <img src="https://api.iconify.design/feather:package.svg?color=%23FBBF24" width="25" alt="Ícone package" />
   Produtos e projetos em destaque
