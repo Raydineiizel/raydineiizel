@@ -61,7 +61,7 @@ const ecossistemaWeb3 = {
 <!-- CSS3 -->
     <a href="https://formacoes.devclub.com.br/verify/7a6e0483f540920ebb5a8f1f102111bbfc4b0c13" target="_blank"><img src="https://img.shields.io/badge/Certificado-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Certificado CSS3"></a>
 <!-- JavaScript -->
-    <a href="LINK_JS" target="_blank"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Certificado JavaScript"></a>
+    <a href="LINK_JS" target="_blank"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="Certificado JavaScript"></a>
 <!-- Git -->
     <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Certificado Git"></a>
 <!-- GitHub -->
@@ -69,7 +69,7 @@ const ecossistemaWeb3 = {
 <!-- TypeScript -->
     <a href="LINK_TS" target="_blank"><img src="https://img.shields.io/badge/Certificado-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Certificado TypeScript"></a>
 <!-- React --> 
-    <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-14B8A6?style=flat-square&logo=react&logoColor=61DAFB" alt="Certificado React"></a>
+    <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-14B8A6?style=flat-square&logo=react&logoColor=white" alt="Certificado React"></a>
 <!-- Node.js -->
     <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
 <!-- PHP -->
@@ -101,7 +101,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/LegalTech-020617?style=flat-square&color=A78BFA" alt="LegalTech" /><img src="https://img.shields.io/badge/IA%20Documental-020617?style=flat-square&color=67E8F9" alt="IA Documental" />
       <p align="justify">Aplicação prática para conversão de moedas em tempo real, focada em uma interface limpa, responsiva e com ótima experiência de uso.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="50%" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="180px" />
       </p>
     </td>
     <td width="50%">
@@ -114,7 +114,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Contabilidade-020617?style=flat-square&color=14B8A6" alt="Contabilidade" /><img src="https://img.shields.io/badge/RAG-020617?style=flat-square&color=FBBF24" alt="RAG" />
       <p align="justify">Aplicação interativa com lógica em JavaScript puro para sorteio randômico de números, contando com design limpo e responsivo para o usuário.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="50%" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="180px" />
       </p>
     </td>
   </tr>
@@ -129,7 +129,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Fiscal-020617?style=flat-square&color=22C55E" alt="Fiscal" /><img src="https://img.shields.io/badge/RPA-020617?style=flat-square&color=67E8F9" alt="RPA" />
       <p align="justify">Interface de e-commerce totalmente responsiva e fluida, estruturada para se adaptar com perfeição a qualquer tamanho de tela e dispositivo mobile.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,git,github,figma,vscode,&theme=light" width="50%" />     
+        <img src="https://skillicons.dev/icons?i=html,css,git,github,figma,vscode,&theme=light" width="180px" />     
       </p>
     </td>
     <td width="50%">
@@ -142,7 +142,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Financeiro-020617?style=flat-square&color=FBBF24" alt="Financeiro" /><img src="https://img.shields.io/badge/Classifica%C3%A7%C3%A3o%20IA-020617?style=flat-square&color=A78BFA" alt="Classificação IA" />
       <p align="justify">Aqui encontra-se meu README, criei minha pagina inicial com base e referencia de vário outros projetos, espero que gostem e sirva de inspiração também.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,py,js,git,github,&theme=light" width="50%" />
+        <img src="https://skillicons.dev/icons?i=html,css,py,js,git,github,&theme=light" width="180px" />
       </p>
     </td>
   </tr>
@@ -157,7 +157,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/SaaS-020617?style=flat-square&color=67E8F9" alt="SaaS" /><img src="https://img.shields.io/badge/Tribut%C3%A1rio-020617?style=flat-square&color=14B8A6" alt="Tributário" />
       <p align="justify">Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="50%" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="180px" />
       </p>
       </h3>
     </td>
@@ -171,7 +171,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
       <p align="justify">Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="50%" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="180px" />
       </p>
     </td>
   </tr>
@@ -180,13 +180,7 @@ const ecossistemaWeb3 = {
 <details>
   <summary>
     <strong>
-      <img src="https://api.iconify.design/feather:plus-circle.svg?color=%2367E8F9" width="18" alt="Ícone plus-circle" />
-      <img src="https://api.iconify.design/feather:file-text.svg?color=%2367E8F9" width="21" alt="Ícone file-text" />
-      <img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
-      <img src="https://api.iconify.design/feather:map.svg?color=%2322C55E" width="21" alt="Ícone map" />
-      <img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%23FBBF24" width="21" alt="Ícone bar-chart-2" /> 
-      <img src="https://api.iconify.design/feather:sliders.svg?color=%2367E8F9" width="21" alt="Ícone sliders" />
-      <img src="https://api.iconify.design/feather:calendar.svg?color=%2322C55E" width="21" alt="Ícone calendar" /> Ver outras frentes de desenvolvimento
+      <img src="https://api.iconify.design/feather:plus-circle.svg?color=%2367E8F9" width="18" alt="Ícone plus-circle" /> Ver outras frentes de desenvolvimento
     </strong>
   </summary>
 
@@ -330,30 +324,30 @@ const ecossistemaWeb3 = {
 </p>
 
 <p align="center">Desenvolvido com ☕ e código por Raydinei Izel.</p>
-<!-- #TAGS = Tecnologias em linha única -->
-<!-- HTML5 -->
-    <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> -->
-<!-- CSS3 -->
-    <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> -->
-<!-- JAVASCRIPT -->
-    <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> -->
-<!-- TYPESCRIPT -->
-    <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> -->
-<!-- REACT -->
-    <!-- <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> -->
-<!-- NODE.JS -->
-    <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> -->
-<!-- PHP -->
-    <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> -->
-<!-- PYTHON -->
-    <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> -->
-<!-- JAVA -->
-    <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> -->
-<!-- GIT -->
-    <!-- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> -->
-<!-- GITHUB -->
-    <!-- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> -->
-<!-- FIGMA -->
-    <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"> -->
-<!-- VSCODE -->
-    <!-- <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"> -->
+    
+
+<!--
+#TAGS#
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+
+#ICONES#
+<img src="https://api.iconify.design/feather:file-text.svg?color=%2367E8F9" width="21" alt="Ícone file-text" />
+<img src="https://api.iconify.design/feather:cpu.svg?color=%23A78BFA" width="21" alt="Ícone cpu" />
+<img src="https://api.iconify.design/feather:map.svg?color=%2322C55E" width="21" alt="Ícone map" />
+<img src="https://api.iconify.design/feather:bar-chart-2.svg?color=%23FBBF24" width="21" alt="Ícone bar-chart-2" /> 
+<img src="https://api.iconify.design/feather:sliders.svg?color=%2367E8F9" width="21" alt="Ícone sliders" />
+<img src="https://api.iconify.design/feather:calendar.svg?color=%2322C55E" width="21" alt="Ícone calendar" />
+-->
+
