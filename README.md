@@ -99,7 +99,7 @@ const ecossistemaWeb3 = {
         </a>
       </h3>
       <img src="https://img.shields.io/badge/LegalTech-020617?style=flat-square&color=A78BFA" alt="LegalTech" /><img src="https://img.shields.io/badge/IA%20Documental-020617?style=flat-square&color=67E8F9" alt="IA Documental" />
-      <p align="justify">Aplicação prática para conversão de moedas em tempo real, focada em uma interface limpa, responsiva e com ótima experiência de uso.</p>
+      <p>Aplicação prática para conversão de moedas em tempo real, focada em uma interface limpa, responsiva e com ótima experiência de uso.</p>
       <p align="left">
         <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="150px" />
       </p>
