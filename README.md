@@ -101,7 +101,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/LegalTech-020617?style=flat-square&color=A78BFA" alt="LegalTech" /><img src="https://img.shields.io/badge/IA%20Documental-020617?style=flat-square&color=67E8F9" alt="IA Documental" />
       <p align="justify">Aplicação prática para conversão de moedas em tempo real, focada em uma interface limpa, responsiva e com ótima experiência de uso.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="180px" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="150px" />
       </p>
     </td>
     <td width="50%">
@@ -114,7 +114,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Contabilidade-020617?style=flat-square&color=14B8A6" alt="Contabilidade" /><img src="https://img.shields.io/badge/RAG-020617?style=flat-square&color=FBBF24" alt="RAG" />
       <p align="justify">Aplicação interativa com lógica em JavaScript puro para sorteio randômico de números, contando com design limpo e responsivo para o usuário.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="180px" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,vscode&theme=light" width="150px" />
       </p>
     </td>
   </tr>
@@ -129,7 +129,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Fiscal-020617?style=flat-square&color=22C55E" alt="Fiscal" /><img src="https://img.shields.io/badge/RPA-020617?style=flat-square&color=67E8F9" alt="RPA" />
       <p align="justify">Interface de e-commerce totalmente responsiva e fluida, estruturada para se adaptar com perfeição a qualquer tamanho de tela e dispositivo mobile.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,git,github,figma,vscode,&theme=light" width="180px" />     
+        <img src="https://skillicons.dev/icons?i=html,css,git,github,figma,vscode,&theme=light" width="150px" />     
       </p>
     </td>
     <td width="50%">
@@ -142,7 +142,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Financeiro-020617?style=flat-square&color=FBBF24" alt="Financeiro" /><img src="https://img.shields.io/badge/Classifica%C3%A7%C3%A3o%20IA-020617?style=flat-square&color=A78BFA" alt="Classificação IA" />
       <p align="justify">Aqui encontra-se meu README, criei minha pagina inicial com base e referencia de vário outros projetos, espero que gostem e sirva de inspiração também.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,py,js,git,github,&theme=light" width="180px" />
+        <img src="https://skillicons.dev/icons?i=html,css,py,js,git,github,&theme=light" width="150px" />
       </p>
     </td>
   </tr>
@@ -157,7 +157,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/SaaS-020617?style=flat-square&color=67E8F9" alt="SaaS" /><img src="https://img.shields.io/badge/Tribut%C3%A1rio-020617?style=flat-square&color=14B8A6" alt="Tributário" />
       <p align="justify">Supabase, PostgreSQL, RLS, JWT, OAuth e arquitetura preparada para multiempresa, permissões e governança.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="180px" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="150px" />
       </p>
       </h3>
     </td>
@@ -171,7 +171,7 @@ const ecossistemaWeb3 = {
       <img src="https://img.shields.io/badge/Agenda%20IA-020617?style=flat-square&color=22C55E" alt="Agenda IA" /><img src="https://img.shields.io/badge/Google%20OAuth-020617?style=flat-square&color=60A5FA" alt="Google OAuth" />
       <p align="justify">Docker, GitHub Actions, Railway, Vercel e NGINX para ambientes reproduzíveis, rollout contínuo e estabilidade.</p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="180px" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,&theme=light" width="150px" />
       </p>
     </td>
   </tr>
