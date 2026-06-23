@@ -61,7 +61,7 @@ const ecossistemaWeb3 = {
 <!-- CSS3 -->
     <a href="https://formacoes.devclub.com.br/verify/7a6e0483f540920ebb5a8f1f102111bbfc4b0c13" target="_blank"><img src="https://img.shields.io/badge/Certificado-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Certificado CSS3"></a>
 <!-- JavaScript -->
-    <a href="LINK_JS" target="_blank"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="Certificado JavaScript"></a>
+    <a href="https://formacoes.devclub.com.br/verify/d828d93ab2658c11eeca18d2962e9249a859b930" target="_blank"><img src="https://img.shields.io/badge/Certificado-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="Certificado JavaScript"></a>
 <!-- Git -->
     <a href="https://formacoes.devclub.com.br/verify/25e3349453648f98c3f488f78b0288f1b71381de" target="_blank"><img src="https://img.shields.io/badge/Certificado-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Certificado Git"></a>
 <!-- GitHub -->
