@@ -71,7 +71,7 @@ const ecossistemaWeb3 = {
 <!-- React --> 
     <a href="LINK_REACT" target="_blank"><img src="https://img.shields.io/badge/Certificado-React-14B8A6?style=flat-square&logo=react&logoColor=white" alt="Certificado React"></a>
 <!-- Node.js -->
-    <a href="LINK_NODE" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
+    <a href="https://formacoes.devclub.com.br/verify/0a22d6069ff83f581b584ff5b84ccb643412598e" target="_blank"><img src="https://img.shields.io/badge/Certificado-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Certificado Node.js"></a>
 <!-- PHP -->
     <a href="LINK_PHP" target="_blank"><img src="https://img.shields.io/badge/Certificado-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Certificado PHP"></a>
 <!-- Python -->
